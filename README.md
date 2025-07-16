@@ -1,8 +1,14 @@
 # Healthcare-Provider-Dashboard
 This project showcases a comprehensive and visually engaging Healthcare Provider Dashboard using Power BI. It focuses on analyzing financial performance, provider efficiency, and key operational trends of healthcare centres across the UK for the years 2024 and 2025. The primary objective is to transform raw healthcare data into clear, actionable insights for decision-makers in the healthcare industry.
+
+![](healthcare_provider.png)
+
 **Key Highlights**
+
 **Financial Analysis**
+
   •	Assess the overall financial health of the healthcare centres across various UK cities during 2024 and 2025.
+  
   •	Analyze revenue by procedure, diagnosis, service type, and department.
 
 **Provider Insights**
