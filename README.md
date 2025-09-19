@@ -3,6 +3,8 @@ This project showcases a comprehensive and visually engaging Healthcare Provider
 
 ![](healthcare_provider.png)
 
+**Power BI Dashboard** : [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDhlZTg1MjMtYjY3My00Yzc5LWFlOGItODQwNGYyODczOGFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 **Key Highlights**
 
 **Financial Analysis**
